@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="120dp"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="5dp"
+    android:layout_marginStart="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:background="@color/yellow2">
+        <TextView
+            android:id="@+id/tv_nhietdogio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/temperaturehour"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:layout_marginTop="4dp"
+            android:textColor="@color/black"/>
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/cirimg_trangthaigio"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_gravity="center"
+            android:src="@drawable/app"
+            app:civ_border_width="1dp"
+            app:civ_border_color="#fff"
+            android:layout_marginTop="8dp"/>
+
+        <TextView
+            android:id="@+id/tv_trangthaigio"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="4dp"
+            android:gravity="center"
+            android:text="@string/statushour"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/tv_giocapnhat2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/hourhour"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:background="@color/yellow"
+            android:layout_marginTop="4dp"
+            android:textColor="@color/black"/>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

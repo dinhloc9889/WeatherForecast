@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="location">Location</string>
+    <string name="temperature">Temperature</string>
+    <string name="status">Status</string>
+    <string name="detail">Detail: </string>
+    <string name="pressure">Pressure: </string>
+    <string name="humidity">Humidity: </string>
+    <string name="clouds">Clouds: </string>
+    <string name="windspeed">Wind speed: </string>
+    <string name="sunrise">Sunrise: </string>
+    <string name="sunset">Sunset: </string>
+    <string name="updatetime">Update time</string>
+    <string name="updateday">Update day</string>
+    <string name="forecastforthenextdays">Forecast for the next days</string>
+    <string name="lang">lang=en</string>
+
+    <string name="temperaturehour">Temperature hour</string>
+    <string name="statushour">Status hour</string>
+    <string name="hourhour">Hour</string>
+
+    <string name="changelocation">Change Location</string>
+    <string name="hanoivietnam">hanoi, viet nam</string>
+    <string name="cancel">Cancel</string>
+    <string name="search">Search</string>
+
+    <string name="units">Units</string>
+    <string name="language">Language</string>
+    <string name="c">ºC</string>
+    <string name="f">ºF</string>
+    <string name="vi">vi</string>
+    <string name="en">en</string>
+    <string name="share">Share with your friends about app</string>
+
+    <string name="forecastforthenextsevendays">Forecast for the next seven days</string>
+    <string name="location2">Location2</string>
+
+    <string name="date">Date</string>
+    <string name="statusnextdays">Status next days</string>
+    <string name="tempmax">Temp max</string>
+    <string name="tempmin">Temp min</string>
+
+    <string name="channel_name">Notification</string>
+    <string name="channel_description">Weather notification</string>
+
+    <string name="internet">Internet connected</string>
+    <string name="notinternet">Internet disconnected, please re-enable the network and restart the app</string>
+
+    <string name="contentnoti1">The weather forecast today may rain, you should bring an umbrella or raincoat!</string>
+    <string name="contentnoti2">The weather forecast today is hot and sunny, you should limit going out to protect your health</string>
+    <string name="contentnoti3">The weather forecast for today is cool</string>
+    <string name="langua">en</string>
+    <string name="coun">EN</string>
+
+</resources>

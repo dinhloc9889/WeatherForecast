@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dự báo thời tiết</string>
+    <string name="location">Địa điểm</string>
+    <string name="temperature">Nhiệt độ</string>
+    <string name="status">Trạng thái</string>
+    <string name="detail">Chi tiết: </string>
+    <string name="pressure">Áp suất: </string>
+    <string name="humidity">Độ ẩm: </string>
+    <string name="clouds">Lưu lượng mây: </string>
+    <string name="windspeed">Tốc độ gió: </string>
+    <string name="sunrise">Bình minh: </string>
+    <string name="sunset">Hoàng hôn: </string>
+    <string name="updatetime">Giờ cập nhật</string>
+    <string name="updateday">Ngày cập nhật</string>
+    <string name="day">Ngày</string>
+    <string name="forecastforthenextdays">Dự báo các ngày tiếp theo</string>
+    <string name="lang">lang=vi</string>
+
+    <string name="temperaturehour">Nhiệt độ giờ</string>
+    <string name="statushour">Trạng thái giờ</string>
+    <string name="hourhour">Giờ</string>
+
+    <string name="changelocation">Thay đổi địa điểm</string>
+    <string name="hanoivietnam">hanoi, viet nam</string>
+    <string name="cancel">Hủy</string>
+    <string name="search">Tìm kiếm</string>
+
+    <string name="units">Đơn vị</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="c">ºC</string>
+    <string name="f">ºF</string>
+    <string name="vi">vi</string>
+    <string name="en">en</string>
+    <string name="share">Chia sẻ ứng dụng với bạn bè</string>
+
+    <string name="forecastforthenextsevendays">Dự báo 7 ngày tiếp theo</string>
+    <string name="location2">Địa diểm 2</string>
+
+    <string name="date">Ngày tháng</string>
+    <string name="statusnextdays">Trạng thái 7</string>
+    <string name="tempmax">Nhiệt độ Cao</string>
+    <string name="tempmin">Nhiệt độ Thấp</string>
+
+    <string name="channel_name">Thông báo</string>
+    <string name="channel_description">Thông báo thời tiết</string>
+
+    <string name="internet">Internet đã được kết nối</string>
+    <string name="notinternet">Internet bị ngắt kết nối, bạn vui lòng bật lại mạng và khởi động lại ứng dụng</string>
+
+    <string name="contentnoti1">Dự báo thời tiết hôm nay có thể mưa, bạn nên mang theo ô, dù hoặc áo mưa nhé nhé!</string>
+    <string name="contentnoti2">Dự báo thời tiết hôm nay trời nắng nóng, bạn nên hạn chế ra ngoài để bảo vệ sức khỏe</string>
+    <string name="contentnoti3">Dự báo thời tiết hôm nay trời mát mẻ</string>
+    <string name="langua">vi</string>
+    <string name="coun">VI</string>
+</resources>
